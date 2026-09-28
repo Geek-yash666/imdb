@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "dom-parser": "^0.1.6",
-    "hono": "^1.4.1",
+    "hono": "^4.13.5",
     "html-entities": "^2.3.3",
     "qs": "^6.11.1"
   },
